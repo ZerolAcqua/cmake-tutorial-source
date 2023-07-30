@@ -48,3 +48,7 @@ _deps
 .vscode/
 
 *_build/
+install/
+debug/
+release/
+_CPack_Packages/
